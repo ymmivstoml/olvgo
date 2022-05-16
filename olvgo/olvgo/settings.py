@@ -20,12 +20,12 @@ STATIC_DIR = os.path.join(BASE_DIR,'static')
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'd()acal)qlu2t)r&*&dxqbi)@=$ki0mwnax!$&p7!y&^b1&1pd'
+SECRET_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 
 # RECAPTCHA KEYS..
-RECAPTCHA_PUBLIC_KEY = '6LfM9O4fAAAAAB-M2VnoKoYd2broprtxHEdRhCeG'
-RECAPTCHA_PRIVATE_KEY = '6LfM9O4fAAAAALgtABWQCYsvpNNBe2HnjdkRlMl9'
+RECAPTCHA_PUBLIC_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+RECAPTCHA_PRIVATE_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
